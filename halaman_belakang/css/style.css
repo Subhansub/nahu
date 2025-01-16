@@ -1,0 +1,9 @@
+
+body {
+    background-color: #E6E6FA;
+    padding: 0;  /* Memberikan ruang agar konten tidak tertutup oleh navbar */
+    margin: 0;
+}
+.navbar {
+    z-index: 100000;  /* Pastikan navbar tetap berada di atas konten */
+}
